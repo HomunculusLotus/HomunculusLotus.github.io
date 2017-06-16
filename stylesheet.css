@@ -64,12 +64,6 @@ body
   padding-right: 130px;
 }
 
-#projectnames
-{
-  display:flex;
-  justify-content:flex-end;
-}
-
 #mywork-header
 {
   text-align:center;

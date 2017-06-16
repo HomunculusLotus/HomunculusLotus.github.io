@@ -19,10 +19,10 @@ body
 {
   font-family:Tinos;
 }
-#Firstpicture
+#rabbitholder
 {
-  padding-left:600px;
-  
+  display: flex;
+  justify-content: center;
 }
 .rabbit-photo
 {

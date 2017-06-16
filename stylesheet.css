@@ -64,7 +64,7 @@ body
   padding-right: 130px;
 }
 
-#namesofprojects
+#projectnames
 {
   display:flex;
   justify-content:flex-end;

@@ -62,8 +62,14 @@ body
 }
 {
   padding-right: 130px;
+  text-shadow:2px 2px white:
 }
 
+
+#projectnames
+{
+  float: left;
+}
 #mywork-header
 {
   text-align:center;

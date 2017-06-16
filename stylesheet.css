@@ -64,6 +64,12 @@ body
   padding-right: 130px;
 }
 
+#namesofprojects
+{
+  display:flex;
+  justify-content:space-around;
+}
+
 #mywork-header
 {
   text-align:center;

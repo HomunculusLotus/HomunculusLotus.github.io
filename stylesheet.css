@@ -67,7 +67,7 @@ body
 #namesofprojects
 {
   display:flex;
-  justify-content:space-around;
+  justify-content:flex-end;
 }
 
 #mywork-header

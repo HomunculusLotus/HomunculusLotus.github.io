@@ -91,9 +91,8 @@ body
 #aboutme
 {
   font-family:'Source Sans Pro';
-  text-align:center;
-  padding-left:190px;
-  padding-right:60px;
+ display: flex;
+  justify-content: center;
   color:white;
   text-shadow: 2px 2px black;
 }
